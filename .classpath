@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="lib/ABR_SecurityTokenManager/ABR_SecurityTokenManager.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/BouncyCastle.1.45/bcmail-jdk16-145.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/BouncyCastle.1.45/bcprov-jdk16-145.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/AKM/abrakm.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/AKM/auskey-dep.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/metro/webservices-rt.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/metro/webservices-tools.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/SBR-Core-Services-Requester/SBR_Core_Services_Requester.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/beans-binding/beansbinding-1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/SLF4J/log4j-over-slf4j-1.5.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/SLF4J/slf4j-api-1.5.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/SLF4J/slf4j-jdk14-1.5.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/swing-app-framework/appframework-1.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/swing-layout/swing-layout-1.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/swing-app-framework/swing-worker-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/metro/webservices-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/metro/webservices-extra-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/metro/webservices-extra.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-codec/commons-codec-1.6.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

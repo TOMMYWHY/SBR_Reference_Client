@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- You may freely edit this file to customise your build. -->
+<project name="SBR_Java_Client" default="default" basedir=".">
+    <description>Builds, tests, and runs the project SBR Java Client.</description>
+    <import file="project/build-impl.xml"/>
+</project>
